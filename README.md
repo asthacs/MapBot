@@ -1,4 +1,4 @@
-# MapBot
+# MapBot🌍
 
 #### Hey! I'm your friendly navigator bot! Try me out, not to brag but I'm FUN!
 
